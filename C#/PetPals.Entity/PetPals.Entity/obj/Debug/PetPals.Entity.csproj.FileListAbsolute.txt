@@ -1,0 +1,6 @@
+C:\coding Challenge\PetPals.Entity\PetPals.Entity\bin\Debug\PetPals.Entity.dll
+C:\coding Challenge\PetPals.Entity\PetPals.Entity\bin\Debug\PetPals.Entity.pdb
+C:\coding Challenge\PetPals.Entity\PetPals.Entity\obj\Debug\PetPals.Entity.csproj.AssemblyReference.cache
+C:\coding Challenge\PetPals.Entity\PetPals.Entity\obj\Debug\PetPals.Entity.csproj.CoreCompileInputs.cache
+C:\coding Challenge\PetPals.Entity\PetPals.Entity\obj\Debug\PetPals.Entity.dll
+C:\coding Challenge\PetPals.Entity\PetPals.Entity\obj\Debug\PetPals.Entity.pdb
