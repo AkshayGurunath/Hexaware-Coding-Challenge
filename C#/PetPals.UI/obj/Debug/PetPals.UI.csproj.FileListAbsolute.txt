@@ -1,0 +1,12 @@
+C:\coding Challenge\PetPals.UI\bin\Debug\PetPals.UI.exe.config
+C:\coding Challenge\PetPals.UI\bin\Debug\PetPals.UI.exe
+C:\coding Challenge\PetPals.UI\bin\Debug\PetPals.UI.pdb
+C:\coding Challenge\PetPals.UI\obj\Debug\PetPals.UI.csproj.AssemblyReference.cache
+C:\coding Challenge\PetPals.UI\obj\Debug\PetPals.UI.csproj.CoreCompileInputs.cache
+C:\coding Challenge\PetPals.UI\obj\Debug\PetPals.UI.exe
+C:\coding Challenge\PetPals.UI\obj\Debug\PetPals.UI.pdb
+C:\coding Challenge\PetPals.UI\bin\Debug\PetPals.BusinessLayer.dll
+C:\coding Challenge\PetPals.UI\bin\Debug\PetPals.Entity.dll
+C:\coding Challenge\PetPals.UI\bin\Debug\PetPals.BusinessLayer.pdb
+C:\coding Challenge\PetPals.UI\bin\Debug\PetPals.Entity.pdb
+C:\coding Challenge\PetPals.UI\obj\Debug\PetPals.UI.csproj.Up2Date
