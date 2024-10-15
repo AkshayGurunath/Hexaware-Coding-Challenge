@@ -1,0 +1,9 @@
+C:\coding Challenge\PetPals.BusinessLayer\obj\Debug\PetPals.BusinessLayer.csproj.AssemblyReference.cache
+C:\coding Challenge\PetPals.BusinessLayer\obj\Debug\PetPals.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\coding Challenge\PetPals.BusinessLayer\bin\Debug\PetPals.BusinessLayer.dll
+C:\coding Challenge\PetPals.BusinessLayer\bin\Debug\PetPals.BusinessLayer.pdb
+C:\coding Challenge\PetPals.BusinessLayer\bin\Debug\PetPals.Entity.dll
+C:\coding Challenge\PetPals.BusinessLayer\bin\Debug\PetPals.Entity.pdb
+C:\coding Challenge\PetPals.BusinessLayer\obj\Debug\PetPals..E48E12B0.Up2Date
+C:\coding Challenge\PetPals.BusinessLayer\obj\Debug\PetPals.BusinessLayer.dll
+C:\coding Challenge\PetPals.BusinessLayer\obj\Debug\PetPals.BusinessLayer.pdb
